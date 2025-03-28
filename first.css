@@ -1,0 +1,12 @@
+img{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    /* transition-duration: 3s; */
+}
+
+body{
+    background: linear-gradient(to right, #155799, #c9762d); 
+}
